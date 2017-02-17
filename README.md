@@ -1,5 +1,5 @@
 # Elon Musk Transcripts Dataset
 
-A dataset of Elon Musk transcripts from speeches.
+_A dataset of Elon Musk transcripts from speeches._
 
-Scraped from http://shitelonsays.com/transcript
+Scraped from http://shitelonsays.com/transcript and cleaned.
